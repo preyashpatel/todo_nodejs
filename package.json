@@ -1,0 +1,15 @@
+{
+  "name": "todo_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nps dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.1-security",
+    "nps": "^5.10.0"
+  }
+}
